@@ -1,0 +1,9 @@
+NutriControl 1.0 - PWA gratuita
+
+1. Publica el contenido de esta carpeta en un alojamiento HTTPS gratuito, por ejemplo GitHub Pages.
+2. Abre la dirección HTTPS en Safari de tu iPhone.
+3. Pulsa Compartir > Añadir a pantalla de inicio > Añadir.
+4. La aplicación funciona sin conexión después de la primera carga exitosa.
+5. Los datos se guardan localmente en ese navegador. Exporta respaldos JSON periódicamente desde Ajustes.
+
+No abras index.html directamente desde Archivos para instalarla como PWA: requiere un servidor HTTPS.
